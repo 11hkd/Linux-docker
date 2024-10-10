@@ -113,4 +113,4 @@ services:
 - **密码**：你在 Docker Compose 脚本中设置的密码
 
 通过以上步骤，就可以在 SSH 环境下实现创建 MySQL 服务目录、使用 Docker Compose 拉取 MySQL 镜像、设置时区、密码和端口映射，并通过 Windows 宿主机的 Idea Database 客户端连接到容器中的 MySQL 数据库。
-1
+12
